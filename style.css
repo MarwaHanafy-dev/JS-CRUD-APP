@@ -1,0 +1,7 @@
+textarea{
+    resize: none;
+    height: 100px;
+}
+button:hover{
+letter-spacing: 2px;
+}
